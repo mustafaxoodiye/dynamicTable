@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "2lB7aMvONSL45SDsIlybcWv0ADwXS2CRDzOglpC7z5E=",
+  "Source": "DynamicHeaders-api",
+  "BasePath": "_content/DynamicHeaders-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
